@@ -314,7 +314,7 @@ int main() {
 
 
     for (groupList gl1 : solList){
-        std::cout << "--------- NEW GROUP ---------" << std::endl;
+        std::cout << "--------- NEW GROUP LIST---------" << std::endl;
 
         for (group g1 : gl1){
             printAvalList(findCommonTimes(g1.first, g1.second));
@@ -323,7 +323,7 @@ int main() {
             for (member theMember : g1.second){
                 std::cout << theMember.getName() << " ";
             }
-            std::cout << std::endl;
+            std::cout << std::endl << std::endl;
         }
         std::cout << std::endl;
     }
