@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\UncleGroupSignUp.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\UncleGroupSignUp.dir/objects.a @CMakeFiles\UncleGroupSignUp.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe  -Wall -Werror -Wextra -pedantic -pedantic-errors -g -g -Wl,--whole-archive CMakeFiles\UncleGroupSignUp.dir/objects.a -Wl,--no-whole-archive -o UncleGroupSignUp.exe -Wl,--out-implib,libUncleGroupSignUp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\UncleGroupSignUp.dir\linklibs.rsp

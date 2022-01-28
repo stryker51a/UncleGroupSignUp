@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ethan/OneDrive - Vanderbilt/Documents/Extra-Curricular/UncleGroupSignUp/leader.h
+person.h
+C:/Users/ethan/OneDrive - Vanderbilt/Documents/Extra-Curricular/UncleGroupSignUp/person.h
+
+C:/Users/ethan/OneDrive - Vanderbilt/Documents/Extra-Curricular/UncleGroupSignUp/main.cpp
+iostream
+-
+sstream
+-
+string
+-
+person.h
+C:/Users/ethan/OneDrive - Vanderbilt/Documents/Extra-Curricular/UncleGroupSignUp/person.h
+member.h
+C:/Users/ethan/OneDrive - Vanderbilt/Documents/Extra-Curricular/UncleGroupSignUp/member.h
+leader.h
+C:/Users/ethan/OneDrive - Vanderbilt/Documents/Extra-Curricular/UncleGroupSignUp/leader.h
+
+C:/Users/ethan/OneDrive - Vanderbilt/Documents/Extra-Curricular/UncleGroupSignUp/member.h
+person.h
+C:/Users/ethan/OneDrive - Vanderbilt/Documents/Extra-Curricular/UncleGroupSignUp/person.h
+
+C:/Users/ethan/OneDrive - Vanderbilt/Documents/Extra-Curricular/UncleGroupSignUp/person.cpp
+set
+-
+person.h
+C:/Users/ethan/OneDrive - Vanderbilt/Documents/Extra-Curricular/UncleGroupSignUp/person.h
+
+C:/Users/ethan/OneDrive - Vanderbilt/Documents/Extra-Curricular/UncleGroupSignUp/person.h
+string
+-
+iostream
+-
+utility
+-
+vector
+-
+sstream
+-
+functional
+-
+numeric
+-
+algorithm
+-
+stdexcept
+-
+
